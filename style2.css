@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+#searchInput {
+    padding: 8px;
+    width: 300px;
+    margin-right: 10px;
+}
+#searchButton {
+    padding: 8px 15px;
+    cursor: pointer;
+}
+.video-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px auto;
+    max-width: 500px;
+    text-align: left;
+}
+.video-item img {
+    max-width: 100%;
+    height: auto;
+}
+.video-item h3 {
+    margin-top: 5px;
+}
